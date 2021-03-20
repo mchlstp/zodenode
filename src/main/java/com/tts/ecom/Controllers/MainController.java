@@ -76,7 +76,7 @@ public class MainController {
             newProducts.add(new Product(4, (float) 19.99, "Aries Shirt 1", "Aries",
                     "images/Aries Shirt 1.png","Aries"));
 
-            newProducts.add(new Product(4, (float) 19.99, "Aries Shirt 2", "Aries",
+            newProducts.add(new Product(4, (float) 19.99, "Motto Shirt", "Aries",
                     "images/Aries Shirt 2.png","Aries"));
 
             newProducts.add(new Product(4, (float) 19.99, "Aries Shirt 3", "Aries",
@@ -91,7 +91,7 @@ public class MainController {
             newProducts.add(new Product(4, (float) 19.99, "Taurus Shirt 1", "Taurus",
                     "images/Taurus Shirt 1.png","Taurus"));
 
-            newProducts.add(new Product(4, (float) 19.99, "Taurus Shirt 2", "Taurus",
+            newProducts.add(new Product(4, (float) 19.99, "Motto Shirt", "Taurus",
                     "images/Taurus Shirt 2.png","Taurus"));
 
             newProducts.add(new Product(4, (float) 19.99, "Taurus Shirt 3", "Taurus",
@@ -106,7 +106,7 @@ public class MainController {
             newProducts.add(new Product(4, (float) 19.99, "Gemini Shirt 1", "Gemini",
                     "images/Gemini Shirt 1.png","Gemini"));
 
-            newProducts.add(new Product(4, (float) 19.99, "Gemini Shirt 2", "Gemini",
+            newProducts.add(new Product(4, (float) 19.99, "Motto Shirt", "Gemini",
                     "images/Gemini Shirt 2.png","Gemini"));
 
             newProducts.add(new Product(4, (float) 19.99, "Gemini Shirt 3", "Gemini",
@@ -121,7 +121,7 @@ public class MainController {
             newProducts.add(new Product(4, (float) 19.99, "Cancer Shirt 1", "Cancer",
                     "images/Cancer Shirt 1.png","Cancer"));
 
-            newProducts.add(new Product(4, (float) 19.99, "Cancer Shirt 2", "Cancer",
+            newProducts.add(new Product(4, (float) 19.99, "Motto Shirt", "Cancer",
                     "images/Cancer Shirt 2.png","Cancer"));
 
             newProducts.add(new Product(4, (float) 19.99, "Cancer Shirt 3", "Cancer",
@@ -136,7 +136,7 @@ public class MainController {
             newProducts.add(new Product(4, (float) 19.99, "Leo Shirt 1", "Leo",
                     "images/Leo Shirt 1.png","Leo"));
 
-            newProducts.add(new Product(4, (float) 19.99, "Leo Shirt 2", "Leo",
+            newProducts.add(new Product(4, (float) 19.99, "Motto Shirt", "Leo",
                     "images/Leo Shirt 2.png","Leo"));
 
             newProducts.add(new Product(4, (float) 19.99, "Leo Shirt 3", "Leo",
@@ -151,7 +151,7 @@ public class MainController {
             newProducts.add(new Product(4, (float) 19.99, "Virgo Shirt 1", "Virgo",
                     "images/Virgo Shirt 1.png","Virgo"));
 
-            newProducts.add(new Product(4, (float) 19.99, "Virgo Shirt 2", "Virgo",
+            newProducts.add(new Product(4, (float) 19.99, "Motto Shirt", "Virgo",
                     "images/Virgo Shirt 2.png","Virgo"));
 
             newProducts.add(new Product(4, (float) 19.99, "Virgo Shirt 3", "Virgo",
@@ -166,7 +166,7 @@ public class MainController {
             newProducts.add(new Product(4, (float) 19.99, "Libra Shirt 1", "Libra",
                     "images/Libra Shirt 1.png","Libra"));
 
-            newProducts.add(new Product(4, (float) 19.99, "Libra Shirt 2", "Libra",
+            newProducts.add(new Product(4, (float) 19.99, "Motto Shirt", "Libra",
                     "images/Libra Shirt 2.png","Libra"));
 
             newProducts.add(new Product(4, (float) 19.99, "Libra Shirt 3", "Libra",
@@ -181,7 +181,7 @@ public class MainController {
             newProducts.add(new Product(4, (float) 19.99, "Scorpio Shirt 1", "Scorpio",
                     "images/Scorpio Shirt 1.png","Scorpio"));
 
-            newProducts.add(new Product(4, (float) 19.99, "Scorpio Shirt 2", "Scorpio",
+            newProducts.add(new Product(4, (float) 19.99, "Motto Shirt", "Scorpio",
                     "images/Scorpio Shirt 2.png","Scorpio"));
 
             newProducts.add(new Product(4, (float) 19.99, "Scorpio Shirt 3", "Scorpio",
@@ -196,7 +196,7 @@ public class MainController {
             newProducts.add(new Product(4, (float) 19.99, "Sagittarius Shirt 1", "Sagittarius",
                     "images/Sagittarius Shirt 1.png","Sagittarius"));
 
-            newProducts.add(new Product(4, (float) 19.99, "Sagittarius Shirt 2", "Sagittarius",
+            newProducts.add(new Product(4, (float) 19.99, "Motto Shirt", "Sagittarius",
                     "images/Sagittarius Shirt 2.png","Sagittarius"));
 
             newProducts.add(new Product(4, (float) 19.99, "Sagittarius Shirt 3", "Sagittarius",
@@ -211,7 +211,7 @@ public class MainController {
             newProducts.add(new Product(4, (float) 19.99, "Capricorn Shirt 1", "Capricorn",
                     "images/Capricorn Shirt 1.png","Capricorn"));
 
-            newProducts.add(new Product(4, (float) 19.99, "Capricorn Shirt 2", "Capricorn",
+            newProducts.add(new Product(4, (float) 19.99, "Motto Shirt", "Capricorn",
                     "images/Capricorn Shirt 2.png","Capricorn"));
 
             newProducts.add(new Product(4, (float) 19.99, "Capricorn Shirt 3", "Capricorn",
@@ -226,7 +226,7 @@ public class MainController {
             newProducts.add(new Product(4, (float) 19.99, "Aquarius Shirt 1", "Aquarius",
                     "images/Aquarius Shirt 1.png","Aquarius"));
 
-            newProducts.add(new Product(4, (float) 19.99, "Aquarius Shirt 2", "Aquarius",
+            newProducts.add(new Product(4, (float) 19.99, "Motto Shirt", "Aquarius",
                     "images/Aquarius Shirt 2.png","Aquarius"));
 
             newProducts.add(new Product(4, (float) 19.99, "Aquarius Shirt 3", "Aquarius",
@@ -241,7 +241,7 @@ public class MainController {
             newProducts.add(new Product(4, (float) 19.99, "Pisces Shirt 1", "Pisces",
                     "images/Pisces Shirt 1.png","Pisces"));
 
-            newProducts.add(new Product(4, (float) 19.99, "Pisces Shirt 2", "Pisces",
+            newProducts.add(new Product(4, (float) 19.99, "Motto Shirt", "Pisces",
                     "images/Pisces Shirt 2.png","Pisces"));
 
             newProducts.add(new Product(4, (float) 19.99, "Pisces Shirt 3", "Pisces",
