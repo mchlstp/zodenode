@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org" lang="en">
-  <head th:replace="fragments/fragments :: head"></head>
+  <head th:replace="fragments/fragments :: head">
+  <script type="text/javascript">
+  window._mfq = window._mfq || [];
+  (function() {
+    var mf = document.createElement("script");
+    mf.type = "text/javascript"; mf.defer = true;
+    mf.src = "//cdn.mouseflow.com/projects/116e40a3-d7db-4156-b121-585e627109c1.js";
+    document.getElementsByTagName("head")[0].appendChild(mf);
+  })();
+</script>
+  </head>
   <body>
     <div th:replace="fragments/fragments :: navbar"></div>
 
@@ -118,15 +128,7 @@
 
       </div>
     </main>
-    <script type="text/javascript">
-  window._mfq = window._mfq || [];
-  (function() {
-    var mf = document.createElement("script");
-    mf.type = "text/javascript"; mf.defer = true;
-    mf.src = "//cdn.mouseflow.com/projects/66795fda-4bb9-48ac-b627-668c81e7b6aa.js";
-    document.getElementsByTagName("head")[0].appendChild(mf);
-  })();
-</script>
+
 
     <div th:replace="fragments/fragments :: footer"></div>
   </body>
